@@ -129,7 +129,7 @@ comments:
   gitalk:
     clientID    : 5474ff5929beebf165c7 # GitHub Application Client ID
     clientSecret: fd1092b655d51cf9d35c78ab6a6f031138035c82 # GitHub Application Client Secret
-    repository  : MooncakeWarrior/games-blog # GitHub repo
+    repository  : games-blog # GitHub repo
     owner       : MooncakeWarrior # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - MooncakeWarrior # - your GitHub Id
